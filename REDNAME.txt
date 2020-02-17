@@ -1,0 +1,2 @@
+É necessário colocar os dados de acesso ao banco de dados no arquivo configDb.json que se encontra na raiz do projeto
+Os dados de conexão são lidos a partir desse arquivo

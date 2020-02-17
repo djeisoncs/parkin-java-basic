@@ -1,0 +1,2 @@
+{"baseParaDados":"postgre","baseParaImagem":"SQL","conexoes":[
+	{"idConexao":"postgreDados","usuario":"postgres","senha":"delete","driver":"org.postgresql.Driver","url":"jdbc:postgresql:","porta":"5432","servidor":"localhost","dataBase":"parking","tipo":"D"}]}
